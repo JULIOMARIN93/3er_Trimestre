@@ -1,0 +1,14 @@
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\bin\Debug\AppOperacion.exe.config
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\bin\Debug\AppOperacion.exe
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\bin\Debug\AppOperacion.pdb
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\bin\Debug\Lib_operacion.dll
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\bin\Debug\Lib_operacion.pdb
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.AssemblyReference.cache
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.SuggestedBindingRedirects.cache
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\obj\Debug\AppOperacion.Form1.resources
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\obj\Debug\AppOperacion.Properties.Resources.resources
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.GenerateResource.cache
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.CoreCompileInputs.cache
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\obj\Debug\AppOperacion.csproj.CopyComplete
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\obj\Debug\AppOperacion.exe
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\AppOperacion\AppOperacion\obj\Debug\AppOperacion.pdb

@@ -1,0 +1,6 @@
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\Lib_operacion\Lib_operacion\bin\Debug\Lib_operacion.dll
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\Lib_operacion\Lib_operacion\bin\Debug\Lib_operacion.pdb
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\Lib_operacion\Lib_operacion\obj\Debug\Lib_operacion.csproj.AssemblyReference.cache
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\Lib_operacion\Lib_operacion\obj\Debug\Lib_operacion.csproj.CoreCompileInputs.cache
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\Lib_operacion\Lib_operacion\obj\Debug\Lib_operacion.dll
+C:\Users\DIANA.ING\Documents\JEMM\ADSI\3er trim\Adalberto\Lib_operacion\Lib_operacion\obj\Debug\Lib_operacion.pdb
